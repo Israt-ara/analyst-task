@@ -1,0 +1,9 @@
+.button-design {
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+}
+
+.button-design:hover {
+    background-color: rgb(21, 137, 27);
+}
